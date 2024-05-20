@@ -4,9 +4,8 @@ import './app.css';
 
 const App = () => {
     return(
-        <div id="comingSoon">
-            <h1>Bracken Leaf Studio</h1>
-            <h2>...coming soon!!!</h2>
+        <div>
+            <img src="/Bracken Leaf Studio.gif" alt="Bracken Leaf gif" className="comingSoon"/>
         </div>
     )
 }
